@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.coverage
+*.egg-info/
+coverage.xml
+htmlcov/
+build/
+dist/
+.venv/
+.vscode/
+.pytest_cache/
+.env
+.idea
+docs/README.md
+docs/CHANGELOG.md
+docs/_build
+docs/*.rst
+# the following .rst files were created manually
+!docs/index.rst
+!docs/changelog.rst
+!docs/readme.rst
